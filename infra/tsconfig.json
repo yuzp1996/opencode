@@ -1,0 +1,3 @@
+{
+  "include": ["./**/*.ts", "../.sst/platform/config.d.ts"]
+}
